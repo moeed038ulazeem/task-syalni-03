@@ -319,6 +319,21 @@ i img{
     padding-top: 5px;
     padding-bottom: 15px;
 }
+footer{
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+    background-color: #91b5d3;
+
+}
+footer img{
+    width: 30px;
+    height: 30px;
+    padding: 10px;
+}
+.all-right{
+    
+}
 
 /*samrt watches
 #Watches-Heading{
