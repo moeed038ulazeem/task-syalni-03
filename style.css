@@ -319,6 +319,7 @@ i img{
     padding-top: 5px;
     padding-bottom: 15px;
 }
+/*
 footer{
     display: flex;
     justify-content: center;
@@ -332,8 +333,13 @@ footer img{
     padding: 10px;
 }
 .all-right{
-    
+text-align: center;
+background-color: #91b5d3;
+padding-top: 10px;
+padding-bottom: 20px;
+color: #292626bb;    
 }
+/*
 
 /*samrt watches
 #Watches-Heading{
@@ -421,6 +427,29 @@ footer img{
         gap: 10px; /* Adjust gap for smaller screens */
     }
 }
+
+
+
+footer{
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+    background-color: #91b5d3;
+
+}
+footer img{
+    width: 30px;
+    height: 30px;
+    padding: 10px;
+}
+.all-right{
+text-align: center;
+background-color: #91b5d3;
+padding-top: 10px;
+padding-bottom: 20px;
+color: #292626bb;    
+}
+
 
 
 
