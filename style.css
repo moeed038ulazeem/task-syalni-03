@@ -254,7 +254,7 @@ i img{
     background-color: #fafafa;
     border: 1px solid gainsboro;
     text-align: center;
-    margin: 10px 0;
+    margin: 30px 0;
     margin-top: 70px;
     
 }
@@ -262,7 +262,7 @@ i img{
     height: 100px;
     width: 100px;
     border-radius: 5px;
-    margin: 20px;
+    margin: 12px;
     background-color: transparent;
 }
 .Moblies span p{
